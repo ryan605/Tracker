@@ -1,0 +1,16 @@
+.container-sm{
+    background-color: #532844;
+    color:#D16666;
+    height: 50%;
+    width:555px;
+}
+button{
+    background-color: #D16666;
+    color:white
+}
+.font-cursive{
+    font-family: "Cedarville Cursive";
+}
+.email{
+    padding-bottom: 10px;
+}
