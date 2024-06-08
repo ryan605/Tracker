@@ -1,0 +1,30 @@
+h1{
+    font-family:"Cedarville Cursive";
+}
+.container-sm{
+    background-color:#532844;
+    width:555px;
+
+}
+.button{
+    padding-left: 25px;
+    
+}
+button{
+    background-color: #D16666;
+    border-radius: 120px;
+    border: #D16666;
+    height: 32px;
+    width: 133px;
+   
+}
+body{
+    color: #D16666;
+}
+p{
+    font-size: xx-small;
+    padding-left: 32px;
+}
+.red{
+    color: #D16666;
+}
