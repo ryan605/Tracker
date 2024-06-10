@@ -1,0 +1,34 @@
+.navbar{
+    background-color: #BD6B73;
+}
+a{
+    color: black;
+}
+body{
+    background-color: #BD6B73;
+    font-family: "Cedarville Cursive"
+}
+p{
+    font-family:"Cedarville Cursive";
+    margin-bottom: 0px;
+}
+.intro{
+    background-color: #D16666;
+    padding-bottom: 40px;
+}
+.planning{
+    margin-top: 10px;
+    background-color: #532844;
+    padding-bottom: 20px;
+}
+.input{
+    padding-left: 20px;
+}
+button{
+    border:#D16666;
+    background-color: #5C6D70;
+}
+.ongoing{
+    background-color: #532844;
+
+}
